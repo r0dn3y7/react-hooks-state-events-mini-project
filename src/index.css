@@ -193,3 +193,19 @@ button.toggle:focus {
     transform: scale(20);
   }
 }
+.selected {
+  font-weight: bold;
+  color: blue;
+}
+
+.task {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+button {
+  margin-left: 10px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
